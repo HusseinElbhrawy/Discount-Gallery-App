@@ -1,13 +1,33 @@
 # 📌 Discount-Gallery | ديسكونت
 
-An innovative mobile application in the field of religious tourism and Umrah organization, making it easy for users to book complete Umrah trips, land trips, and hotels in the holy cities in a simple and secure way.
+An innovative discount coupon application operating in the Kingdom of Saudi Arabia, targeting restaurant owners, shop owners, companies, and end users. It allows businesses to create and offer exclusive discount coupons and deals, while users can purchase these coupons, redeem them in-store, and enjoy instant savings.
 
-🧳 For users:
-• Choose the type of trip (land trips, Umrah trips, hotel bookings).
-• Display available dates via an interactive calendar and trip details with automatic cost calculation.
-• Multiple Umrah packages (e.g., VIP, Standard, Pro) with different features.
-• Automatic passport scanning to extract data with the option to rescan.
-• Comprehensive confirmation of all details before payment (partial or full).
+🎟️ For Businesses (Restaurants, Shops, Companies):
+• Create and publish exclusive discount coupons and limited-time offers.
+• Attract more customers through targeted promotions.
+
+🧑‍🤝‍🧑 For Users:
+• Browse and discover nearby restaurants, shops, and companies with active deals.
+• Purchase any number of coupons securely and redeem them directly at the venue.
+• Save purchased coupons, track purchase history, manage cart and favorites.
+
+The app features two versions: one for customers and one dedicated for business owners.
+
+Key Features
+
+- **Dual App Versions**: Separate apps – Customer app for browsing and purchasing deals; Business app for creating, managing, and tracking coupons and offers.
+
+- **Coupon Browsing & Discovery**: Users can explore participating restaurants, shops, and companies, view available exclusive coupons and deals, filtered by category, location, or popularity.
+
+- **Secure Coupon Purchase**: Add desired coupons to cart, select quantity, proceed to secure payment gateway, and complete purchase instantly.
+
+- **Coupon Management for Users**: Save purchased coupons for later use, view redemption status, access purchase history, manage favorites, and use a fully featured shopping cart.
+
+- **In-Store Redemption**: Users present purchased coupons at the venue for easy activation and immediate discount application.
+
+- **Business Dashboard**: Merchants can create new coupons/offers, set discount percentages, validity periods, quantity limits, track redemptions, and monitor performance analytics.
+
+- **Additional Features**: Supports Dark and Light modes, full bilingual support (Arabic and English), push notifications for new deals and expirations, location-based deal recommendations.
 
 **Key Features** 
 
@@ -19,7 +39,6 @@ An innovative mobile application in the field of religious tourism and Umrah org
 
 - **Additional Features**: Instant notifications, a screen displaying the user's past and current bookings, full authentication system (login, registration, password reset/update, OTP verification, profile viewing and editing).
 
-**Key Features** 
 
 ---
 
