@@ -71,7 +71,7 @@ Key Features
 
 | Platform    | Status                         | Link                                                                                                                                                                                                        |
 |-------------|--------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Google Play | _Coming-soon_ ⌛ | <a href="#"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" height="60" /></a> |
+| Google Play | **Live** 🚀 | <a href="https://play.google.com/store/apps/details?id=com.azdansoft.discountgalleryapp"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" height="60" /></a> |
 | App Store   | **Live** 🚀 | <a href="https://apps.apple.com/us/app/discount-gallery/id6745720236"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a>    |
 
 ---
